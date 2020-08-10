@@ -1,6 +1,6 @@
 {
   "name": "binod-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Binod MEME details on your CLI",
   "main": "index.js",
   "bin" : "index.js",
@@ -13,6 +13,8 @@
   },
   "keywords": [
     "Binod",
+    "meme",
+    "binod",
     "meme"
   ],
   "author": "Aditya Kale",
